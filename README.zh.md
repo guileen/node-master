@@ -1,0 +1,4 @@
+master.js
+=========
+
+Cluster helper
