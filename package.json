@@ -1,0 +1,17 @@
+{
+  "author": "Gui Lin <guileen@gmail.com>",
+  "name": "master",
+  "description": "node.js cluster easier",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kissjs/node-master.git"
+  },
+  "main": "master.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
