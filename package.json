@@ -2,7 +2,7 @@
   "author": "Gui Lin <guileen@gmail.com>",
   "name": "master",
   "description": "node.js daemon/cluster easier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/kissjs/node-master.git"

@@ -26,7 +26,6 @@ function getStdio(stdout, stderr, callback) {
 }
 
 exports.daemon = function(opt) {
-    console.log('isMaster', isMaster, 'isWorker', isWorker)
     if(isMaster) {
         if(!opt.worker) {
             throw new Error('require opt.worker')
